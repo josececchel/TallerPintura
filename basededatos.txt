@@ -1,0 +1,4 @@
+9325204,Jose Luis Cecchel,3472626213,Auto,3,LGT987,KitSilver,300,30,Peugeot
+45678243,Maikol Alegre,353678956,Bici,1,GJH576,Montan Bike,100,10,Venzo
+38567434,Emanuel Canelo,351893456,Moto,2,FGR345,Motomel,200,20,Enduro
+38567434,Emanuel Canelo,351893456,Moto,2,FGR345,Motomel,200,20,Enduro
